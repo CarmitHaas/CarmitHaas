@@ -1,12 +1,18 @@
-<img src="banner.png" width="100%" />
-
 ## Hey, I'm Carmit
 
-I build cloud infrastructure and teach others how to do the same. Lead DevOps instructor creating hands-on training where students deploy real applications to real clusters - not slideshows.
+<img src="banner.png" align="right" width="280" />
+
+I build cloud infrastructure and teach others how to do the same.
+
+Lead DevOps instructor creating hands-on training where students deploy real applications to real clusters - not slideshows.
 
 ### What I Work With
 
-`Terraform` `AWS` `EKS` `Docker` `Jenkins` `ArgoCD` `Prometheus` `Grafana` `Python` `Helm` `Nginx` `MongoDB` `Redis` `GitHub Actions`
+`Terraform` `AWS` `EKS` `Docker` `Jenkins` `ArgoCD`
+`Prometheus` `Grafana` `Python` `Helm` `Nginx` `MongoDB`
+`Redis` `GitHub Actions`
+
+<br clear="right"/>
 
 ### Featured Projects
 
