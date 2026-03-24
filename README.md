@@ -25,13 +25,13 @@ Lead DevOps instructor creating hands-on training where students deploy real app
 ### Certifications
 
 <a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" title="AWS Certified Solutions Architect – Associate" /></a>&nbsp;
-<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/85b9cfc4-257a-4571-8c40-ce0be6959414/image.png" alt="Terraform Associate" title="HashiCorp Certified: Terraform Associate (003)" /></a>&nbsp;
-<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="GitOps Enterprise" title="GitOps Enterprise – Codefresh" /></a>&nbsp;
-<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/4566c06a-8e52-41b6-b1b1-d37db8f1a354/image.png" alt="GitOps at Scale" title="GitOps at Scale – Codefresh" /></a>&nbsp;
-<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/45d4a763-2533-46c2-b9e8-dc4b7e5da710/image.png" alt="GitOps Fundamentals" title="GitOps Fundamentals – Codefresh" /></a>&nbsp;
+<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="Terraform Associate" title="HashiCorp Certified: Terraform Associate (003)" /></a>&nbsp;
+<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/7d2c6621-0b7f-46e6-a56b-f69143812011/blob" alt="GitOps Enterprise" title="GitOps Enterprise – Codefresh" /></a>&nbsp;
+<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/89046afe-b82b-4dc1-9c20-384ea505fd01/blob" alt="GitOps at Scale" title="GitOps at Scale – Codefresh" /></a>&nbsp;
+<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/fbd71e9c-07f7-4a8b-a874-2bf5001a6dbf/blob" alt="GitOps Fundamentals" title="GitOps Fundamentals – Codefresh" /></a>&nbsp;
 <a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" title="GitHub Foundations" /></a>&nbsp;
-<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/89efc3e7-842b-4790-b09b-9ea5571f187d/image.png" alt="GitHub Actions" title="GitHub Actions" /></a>&nbsp;
-<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/0e652300-40a0-4547-afcf-79b4649f7a8c/image.png" alt="GitHub Copilot" title="GitHub Copilot" /></a>
+<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="GitHub Actions" title="GitHub Actions" /></a>&nbsp;
+<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" alt="GitHub Copilot" title="GitHub Copilot" /></a>
 
 ### Teaching
 
