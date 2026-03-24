@@ -2,7 +2,7 @@
 
 <img src="banner.png" align="right" width="220" />
 
-I build cloud infrastructure and teach others how to do the same.
+I build cloud infrastructure and CI/CD pipelines, and teach others how to do the same.
 
 Lead DevOps instructor creating hands-on training where students deploy real applications to real clusters - not slideshows.
 
@@ -29,9 +29,9 @@ Lead DevOps instructor creating hands-on training where students deploy real app
 <a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/7d2c6621-0b7f-46e6-a56b-f69143812011/blob" alt="GitOps Enterprise" title="GitOps Enterprise – Codefresh" /></a>&nbsp;
 <a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/89046afe-b82b-4dc1-9c20-384ea505fd01/blob" alt="GitOps at Scale" title="GitOps at Scale – Codefresh" /></a>&nbsp;
 <a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/fbd71e9c-07f7-4a8b-a874-2bf5001a6dbf/blob" alt="GitOps Fundamentals" title="GitOps Fundamentals – Codefresh" /></a>&nbsp;
-<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" title="GitHub Foundations" /></a>&nbsp;
-<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="GitHub Actions" title="GitHub Actions" /></a>&nbsp;
-<a href="https://www.credly.com/users/carmit-haas/badges"><img src="https://images.credly.com/size/100x100/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" alt="GitHub Copilot" title="GitHub Copilot" /></a>
+<a href="https://learn.microsoft.com/en-us/users/carmithaas-8969/credentials/certification/github-foundations"><img src="https://images.credly.com/size/100x100/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" title="GitHub Foundations" /></a>&nbsp;
+<a href="https://learn.microsoft.com/en-us/users/carmithaas-8969/credentials/certification/github-actions"><img src="https://images.credly.com/size/100x100/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="GitHub Actions" title="GitHub Actions" /></a>&nbsp;
+<a href="https://learn.microsoft.com/en-us/users/carmithaas-8969/credentials/certification/github-copilot"><img src="https://images.credly.com/size/100x100/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" alt="GitHub Copilot" title="GitHub Copilot" /></a>
 
 ### Teaching
 
