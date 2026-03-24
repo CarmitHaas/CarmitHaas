@@ -35,7 +35,7 @@ Lead DevOps instructor creating hands-on training where students deploy real app
 
 ### Teaching
 
-I design exercises where you learn by breaking things and fixing them. The Docker exercises in my repos are used in real bootcamps - progressive difficulty, collapsible hints for when you're stuck, and solutions you can check after you've tried.
+I design exercises where you learn by breaking things and fixing them. The Docker exercises in my repos are battle-tested with real students - progressive difficulty, collapsible hints for when you're stuck, and solutions you can check after you've tried.
 
 ### Connect
 
