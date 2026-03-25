@@ -2,9 +2,7 @@
 
 <img src="banner.png" align="right" width="220" />
 
-I build cloud infrastructure and CI/CD pipelines, and teach others how to do the same.
-
-Lead DevOps instructor creating hands-on training where students deploy real applications to real clusters - not slideshows.
+Solo DevOps engineer running the full infrastructure stack for a biotech startup. I also teach the next generation of DevOps engineers through hands-on exercises built from real-world experience.
 
 **What I Work With**
 
