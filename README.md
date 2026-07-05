@@ -1,6 +1,5 @@
 ## Hey, I'm Carmit
 
-<img src="banner.png" align="right" width="220" />
 
 Solo DevOps engineer running the full infrastructure stack for a biotech startup. I also teach the next generation of DevOps engineers through hands-on exercises built from real-world experience.
 
